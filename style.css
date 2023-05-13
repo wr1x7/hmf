@@ -1,0 +1,72 @@
+body {
+    background: greenyellow;
+    margin: 0;
+    padding: 0;
+}
+header.main.footer {
+min-width: 855px;
+}
+header {
+    background: white;
+}
+main {
+    background: white;
+    overflow: auto;
+}
+img {
+    width: 100px;
+    height: 150px;
+}
+header.container.main.container.footer.container {
+    max-width: 855px;
+    margin: auto;
+}
+
+header {
+background: white;
+overflow: auto;
+}
+
+header h1 {
+float: left;
+width: 570px;
+}
+
+header nav {
+    float:right;
+    width: 285px;
+    margin: 25px 0;
+}
+.leviy {
+    float: left;
+width: 570px;
+}
+
+.praviy {
+    float: right;
+    width: 285px;
+    }
+
+
+.leviyy {
+    float: left;
+width: 570px;
+}
+
+.praviyy {
+    float: right;
+    width: 285px;
+    }
+
+.leviyyy {
+    float: right;
+    width: 100px;
+    padding: 0;
+    margin: 0;
+    }
+
+.praviyyy {
+    float: right;
+    width: 100px;
+    }
+
